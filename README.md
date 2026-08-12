@@ -222,3 +222,5 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-STABILIZER-CORE-EXECUTION-GATE-v1.0
 https://github.com/Crystal-Bell/M.A.D.-WORKS-ECOSYSTEM-CONTINUITY-EXPANSION-MODULE-v2.0.1-
 
 https://github.com/Crystal-Bell/M.A.D.-WORKS-CENOSETTE-PROTOTYPE-PROTOCOL-LAND-ANCHOR-v3.0.0-
+
+https://github.com/Crystal-Bell/M.A.D.-WORKS-M.A.D.-W.E.A.R.-LOAD-DISTRIBUTION-MODULE-v4.0.0-
