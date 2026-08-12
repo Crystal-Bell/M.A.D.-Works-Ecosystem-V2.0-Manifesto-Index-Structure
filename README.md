@@ -216,3 +216,5 @@ https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
 https://github.com/Crystal-Bell/https-charltonc821.github.io-mad-works-hub-
 
 https://github.com/Crystal-Bell/mad-works-hub
+
+https://github.com/Crystal-Bell/M.A.D.-WORKS-STABILIZER-CORE-EXECUTION-GATE-v1.0.0-
