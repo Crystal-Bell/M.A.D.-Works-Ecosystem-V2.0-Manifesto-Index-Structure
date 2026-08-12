@@ -1,0 +1,1 @@
+# M.A.D.-Works-Ecosystem-V2.0-Manifesto-Index-Structure
