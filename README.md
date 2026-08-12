@@ -189,3 +189,7 @@ Core Governance
 https://github.com/Crystal-Bell/Project-Title-Project-M.A.D.-Micro-Auditory-Defense-Agency-Distribution-
 
 https://github.com/Crystal-Bell/-Corrected-Real-World-Profile-Highlights
+
+https://github.com/Crystal-Bell/Operations-Log-2026-08-12https://github.com/Crystal-Bell
+
+https://github.com/Crystal-Bell/v1.0-CORE_MANIFESTO_INDEX
