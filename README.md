@@ -218,3 +218,5 @@ https://github.com/Crystal-Bell/https-charltonc821.github.io-mad-works-hub-
 https://github.com/Crystal-Bell/mad-works-hub
 
 https://github.com/Crystal-Bell/M.A.D.-WORKS-STABILIZER-CORE-EXECUTION-GATE-v1.0.0-
+
+https://github.com/Crystal-Bell/M.A.D.-WORKS-ECOSYSTEM-CONTINUITY-EXPANSION-MODULE-v2.0.1-
