@@ -226,3 +226,5 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-CENOSETTE-PROTOTYPE-PROTOCOL-LAND-A
 https://github.com/Crystal-Bell/M.A.D.-WORKS-M.A.D.-W.E.A.R.-LOAD-DISTRIBUTION-MODULE-v4.0.0-
 
 https://github.com/Crystal-Bell/M.A.D.-WORKS-CONTINUITY-OF-PROVENANCE-LEGACY-PROTOCOL-v5.0.0-a
+
+https://github.com/Crystal-Bell/M.A.D.-WORKS-M.A.D.M.O.M.-METACOGNITIVE-SELF-AUDIT-CONSTRAINT-LOOP-v6.0.0-
