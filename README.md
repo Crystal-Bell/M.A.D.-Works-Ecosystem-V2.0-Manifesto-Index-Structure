@@ -1,3 +1,6 @@
+https://github.com/Crystal-Bell/mad-works-stabilizer-core
+
+
 M.A.D. Works Ecosystem: V2.0 Manifesto Index Structure
 System Maintenance
  * Protocol & Audit Hub (/core-governance-audit)
