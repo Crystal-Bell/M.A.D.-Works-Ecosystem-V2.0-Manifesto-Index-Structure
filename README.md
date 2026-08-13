@@ -237,3 +237,5 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-HARDWARE-ABSTRACTION-LAYER-FAILOVER
 
 https://github.com/Crystal-Bell/-Final-Component-Zero-Trust-Security-WASM-Sandbox-Gateway
 
+https://github.com/Crystal-Bell/Technical-Specification-MAD-Wear-Utility-Pants
+
