@@ -232,3 +232,5 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-M.A.D.M.O.M.-METACOGNITIVE-SELF-AUD
 https://github.com/Crystal-Bell/M.A.D.-WORKS-UNIFIED-REPOSITORY-MASTER-TEMPLATE-EXECUTION-CORE-v7.0.0-
 
 https://github.com/Crystal-Bell/M.A.D.-WORKS-COMPLIANCE-AUTOMATED-ZONING-VALIDATOR-v8.0.0-
+
+https://github.com/Crystal-Bell/M.A.D.-WORKS-HARDWARE-ABSTRACTION-LAYER-FAILOVER-ROUTER-v9.0.0-
