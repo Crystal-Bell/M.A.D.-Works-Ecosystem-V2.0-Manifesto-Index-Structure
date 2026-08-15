@@ -241,3 +241,5 @@ https://github.com/Crystal-Bell/Technical-Specification-MAD-Wear-Utility-Pants
 
 https://github.com/Crystal-Bell/M.A.D.-WORKS-Ecosystem-Change-Log-NIMS-ICS-Integrated-Protocol-
 
+
+https://github.com/Crystal-Bell/Acoustic-Footstep-Proximity-Modulator-Collar
