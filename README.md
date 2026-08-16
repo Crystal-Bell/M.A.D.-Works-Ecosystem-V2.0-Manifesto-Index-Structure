@@ -1,3 +1,9 @@
+https://github.com/Crystal-Bell/-mad-ecosystem-core
+
+https://github.com/Crystal-Bell/-mad-agent-tasks
+
+https://github.com/Crystal-Bell/-mad-bounty-tracker
+
 https://github.com/Crystal-Bell/mad-works-stabilizer-core
 
 
@@ -243,3 +249,4 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-Ecosystem-Change-Log-NIMS-ICS-Integ
 
 
 https://github.com/Crystal-Bell/Acoustic-Footstep-Proximity-Modulator-Collar
+
