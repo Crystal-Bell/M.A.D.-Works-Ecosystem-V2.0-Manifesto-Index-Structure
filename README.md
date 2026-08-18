@@ -250,3 +250,5 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-Ecosystem-Change-Log-NIMS-ICS-Integ
 
 https://github.com/Crystal-Bell/Acoustic-Footstep-Proximity-Modulator-Collar
 
+https://github.com/Crystal-Bell/L.U.M.A.-Protocol-Open-Source-Character-Decentralized-Lore-Architecture
+
