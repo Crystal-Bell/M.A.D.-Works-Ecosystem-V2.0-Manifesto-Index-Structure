@@ -19,7 +19,6 @@ cross_references:
 
 ### M.A.D. WORKS Ecosystem Master Index Map
 
-Your provided repositories and structural modules map directly into the following decentralized functional pillars:
 
 #### 1. Core Governance & Provenance
 
