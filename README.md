@@ -324,3 +324,5 @@ https://github.com/Crystal-Bell/mad-topographical-snapshot-protocol
 https://github.com/Crystal-Bell/-mad-sar-humanitarian-mesh-
 
 https://github.com/Crystal-Bell/Technical-Specification-The-Spark-X-Drive-Mode-Shift-Hub-Ambient-Cabin-Telemetry
+
+https://github.com/Crystal-Bell/mad-sparkx-economy-spec
