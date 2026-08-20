@@ -373,3 +373,4 @@ cross_references:
       ┗━━ 🌍 📁 human-coalition (Unlicense framework & decentralized deployment)
 
 
+https://github.com/Crystal-Bell/-Granular-Invention-Taxonomy-Master-Sub-Branches
