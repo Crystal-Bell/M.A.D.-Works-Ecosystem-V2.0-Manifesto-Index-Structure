@@ -312,3 +312,7 @@ CHRONO-GLOW FOOTBALL
 https://github.com/Crystal-Bell/Technical-Data-Payload-Specification-M.A.D.-Local-Mesh-Emergency-Broadcast
 
 https://github.com/Crystal-Bell/Technical-Specification-Universal-Attachment-Interface-Velcro-Rivet-Snap-Wrap-
+
+https://github.com/Crystal-Bell/Technical-Specification-The-Family-Proximity-Haptic-Tether-Anti-Leash-Child-Safety-Mesh-
+
+https://github.com/Crystal-Bell/Technical-Specification-The-Multi-Child-Body-Mapped-Haptic-Grid-The-Headcount-Array-
