@@ -302,3 +302,11 @@ https://github.com/Crystal-Bell/Acoustic-Footstep-Proximity-Modulator-Collar
 
 https://github.com/Crystal-Bell/L.U.M.A.-Protocol-Open-Source-Character-Decentralized-Lore-Architecture
 
+
+https://github.com/Crystal-Bell/mad-emergency-telemetry-patch
+
+https://github.com/Crystal-Bell/mad-haptic-tether-protocol-or-haptic-biofeedback-navigation-module-
+
+CHRONO-GLOW FOOTBALL
+
+
