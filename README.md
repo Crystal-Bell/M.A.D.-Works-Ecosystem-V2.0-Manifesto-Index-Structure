@@ -311,3 +311,4 @@ CHRONO-GLOW FOOTBALL
 
 https://github.com/Crystal-Bell/Technical-Data-Payload-Specification-M.A.D.-Local-Mesh-Emergency-Broadcast
 
+https://github.com/Crystal-Bell/Technical-Specification-Universal-Attachment-Interface-Velcro-Rivet-Snap-Wrap-
