@@ -316,3 +316,5 @@ https://github.com/Crystal-Bell/Technical-Specification-Universal-Attachment-Int
 https://github.com/Crystal-Bell/Technical-Specification-The-Family-Proximity-Haptic-Tether-Anti-Leash-Child-Safety-Mesh-
 
 https://github.com/Crystal-Bell/Technical-Specification-The-Multi-Child-Body-Mapped-Haptic-Grid-The-Headcount-Array-
+
+https://github.com/Crystal-Bell/Technical-Specification-The-Hot-or-Cold-Haptic-Tracking-Vector-Dynamic-Animal-Retrieval-
