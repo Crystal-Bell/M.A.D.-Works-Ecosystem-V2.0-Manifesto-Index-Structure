@@ -309,4 +309,5 @@ https://github.com/Crystal-Bell/mad-haptic-tether-protocol-or-haptic-biofeedback
 
 CHRONO-GLOW FOOTBALL
 
+https://github.com/Crystal-Bell/Technical-Data-Payload-Specification-M.A.D.-Local-Mesh-Emergency-Broadcast
 
