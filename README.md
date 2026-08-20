@@ -318,3 +318,5 @@ https://github.com/Crystal-Bell/Technical-Specification-The-Family-Proximity-Hap
 https://github.com/Crystal-Bell/Technical-Specification-The-Multi-Child-Body-Mapped-Haptic-Grid-The-Headcount-Array-
 
 https://github.com/Crystal-Bell/Technical-Specification-The-Hot-or-Cold-Haptic-Tracking-Vector-Dynamic-Animal-Retrieval-
+
+https://github.com/Crystal-Bell/mad-topographical-snapshot-protocol
