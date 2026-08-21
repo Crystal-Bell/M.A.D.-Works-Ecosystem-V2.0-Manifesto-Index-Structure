@@ -375,3 +375,7 @@ cross_references:
 https://github.com/Crystal-Bell/-Granular-Invention-Taxonomy-Master-Sub-Branches
 
 https://github.com/Crystal-Bell/Scaling-up
+
+https://github.com/Crystal-Bell/Project-Overview-The-Daylight-Pane-Window-Retrofit
+
+https://github.com/Crystal-Bell/Project-Repository-Entry-The-Midnight-Binky-Glow-Kit
