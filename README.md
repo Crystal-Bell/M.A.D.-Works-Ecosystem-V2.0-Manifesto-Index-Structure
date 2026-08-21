@@ -379,3 +379,5 @@ https://github.com/Crystal-Bell/Scaling-up
 https://github.com/Crystal-Bell/Project-Overview-The-Daylight-Pane-Window-Retrofit
 
 https://github.com/Crystal-Bell/Project-Repository-Entry-The-Midnight-Binky-Glow-Kit
+
+https://github.com/Crystal-Bell/Concept-1-The-Gyro-Shield-Floor-Protected-Pacifier
