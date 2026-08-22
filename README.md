@@ -417,3 +417,6 @@ https://github.com/Crystal-Bell/Concept-1-The-Gyro-Shield-Floor-Protected-Pacifi
 https://github.com/Crystal-Bell/BigBoy-Train-Build-protocols-for-Yard-Mechanics-
 
 https://github.com/Crystal-Bell/M.A.D.-Omni-Presence-Educational-Simulation-Engine
+
+https://github.com/Crystal-Bell/M.A.D.-Socratic-Audit-Repository-Core-Diagnostic-Framework
+
