@@ -424,3 +424,4 @@ https://github.com/Crystal-Bell/M.A.D.-WORKS-Ecosystem-Audit-Global-Synthesis
 
 https://github.com/Crystal-Bell/M.A.D.-Works-Daily-System-Summary-August-23-2026
 
+https://github.com/Crystal-Bell/Ecosystem-Change-Log
