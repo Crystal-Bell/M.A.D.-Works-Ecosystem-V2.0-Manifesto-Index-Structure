@@ -443,3 +443,5 @@ https://github.com/Crystal-Bell/-Fleet-OS-Ergonomic-Injury-Detection-First-Aid-P
 https://github.com/Crystal-Bell/Fleet-OS-Synchronous-Joy-Breath-Matching-Protocol-SJ-BMP-
 
 https://github.com/Crystal-Bell/Fleet-OS-Emergency-Coordination-Expressive-Mitigation-Protocol-EC-EMP-
+
+https://github.com/Crystal-Bell/Fleet-OS-Comedic-Error-Kinetic-Mishap-Protocol-CE-KMP-
