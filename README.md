@@ -447,3 +447,5 @@ https://github.com/Crystal-Bell/Fleet-OS-Emergency-Coordination-Expressive-Mitig
 https://github.com/Crystal-Bell/Fleet-OS-Comedic-Error-Kinetic-Mishap-Protocol-CE-KMP-
 
 https://github.com/Crystal-Bell/Fleet-OS-Vernacular-Adaptation-Playful-Retort-Protocol-VAP-PRP-
+
+https://github.com/Crystal-Bell/Fleet-OS-Canine-Vocal-Translation-Operator-Accountability-Protocol-CV-TOAP-
