@@ -439,3 +439,7 @@ https://github.com/Crystal-Bell/fleet-os-core-protocol-peer-to-peer-apprenticesh
 https://github.com/Crystal-Bell/Fleet-OS-Biological-Vector-Defense-Inter-Unit-Comedic-Subroutine-BVD-IUCS-
 
 https://github.com/Crystal-Bell/-Fleet-OS-Ergonomic-Injury-Detection-First-Aid-Protocol-EID-FAP-
+
+https://github.com/Crystal-Bell/Fleet-OS-Synchronous-Joy-Breath-Matching-Protocol-SJ-BMP-
+
+https://github.com/Crystal-Bell/Fleet-OS-Emergency-Coordination-Expressive-Mitigation-Protocol-EC-EMP-
