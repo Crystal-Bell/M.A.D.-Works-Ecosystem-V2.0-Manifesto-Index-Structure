@@ -433,3 +433,5 @@ https://github.com/Crystal-Bell/-M.A.D.-W.E.A.R.-Kinetic-Self-Propelled-Toy-Over
 https://github.com/Crystal-Bell/fleet-os-core-protocol-autonomous-health-and-degraded-input-version-1.0.0
 
 https://github.com/Crystal-Bell/fleet-os-core-protocol-colloquial-empathetic-interface-version-1.1.0
+
+https://github.com/Crystal-Bell/fleet-os-core-protocol-peer-to-peer-apprenticeship-and-education-version-1.2.0
