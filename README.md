@@ -451,3 +451,5 @@ https://github.com/Crystal-Bell/Fleet-OS-Vernacular-Adaptation-Playful-Retort-Pr
 https://github.com/Crystal-Bell/Fleet-OS-Canine-Vocal-Translation-Operator-Accountability-Protocol-CV-TOAP-
 
 https://github.com/Crystal-Bell/mad-mom-momentum-system-operations
+
+https://github.com/Crystal-Bell/LICENSE
