@@ -486,3 +486,5 @@ https://github.com/Crystal-Bell/Autonomous-Reciprocity-Tracking-Linguistic-Alert
 https://github.com/Crystal-Bell/Cenote-Core-Multi-Sensory-Deterrence-Matrix
 
 https://github.com/Crystal-Bell/protocol_id-CENOTE-CORE-DEF-04
+
+https://github.com/Crystal-Bell/Omnipresent-Classroom-Multi-Sensory-CAD-Telemetry
