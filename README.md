@@ -492,3 +492,5 @@ https://github.com/Crystal-Bell/Omnipresent-Classroom-Multi-Sensory-CAD-Telemetr
 https://github.com/Crystal-Bell/Planetary-Scale-Remediation-Autonomous-Swarms-Sinking-Islands-and-Glacial-Stabilization
 
 https://github.com/Crystal-Bell/2026-09-05M.A.D.-Bot-Brigade-Zero-Friction-Hardware-Integration-Philanthropic-Deployment-Proposal
+
+https://github.com/Crystal-Bell/M.A.D.-Forest-Reseeding-Drone-Matrix-Bio-Degradable-Airframes-Local-Fabrication
