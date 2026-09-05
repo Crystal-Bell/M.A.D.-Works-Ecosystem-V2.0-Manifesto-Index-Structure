@@ -478,3 +478,8 @@ In the event of extended operator unavailability, system oversight transitions a
 - **Autonomy Guarantee:** Any integration with external networks must preserve individual provenance and singular architectural origin.
 
 https://github.com/Crystal-Bell/Autonomous-Bioswarm-Remediation-Oceanic-Garbage-Patch-Succession
+
+https://github.com/Crystal-Bell/Tamper-Audit-Reciprocity-Protocols-Threat-Shift-Logging
+
+https://github.com/Crystal-Bell/Autonomous-Reciprocity-Tracking-Linguistic-Alert-Matrix
+
