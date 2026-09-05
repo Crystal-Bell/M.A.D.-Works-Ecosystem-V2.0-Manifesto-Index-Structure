@@ -496,3 +496,5 @@ https://github.com/Crystal-Bell/2026-09-05M.A.D.-Bot-Brigade-Zero-Friction-Hardw
 https://github.com/Crystal-Bell/M.A.D.-Forest-Reseeding-Drone-Matrix-Bio-Degradable-Airframes-Local-Fabrication
 
 https://github.com/Crystal-Bell/Planetary-Scale-Simulation-1-000-Unit-Global-Deployment-Rapid-Remediation-Matrix
+
+https://github.com/Crystal-Bell/Distributed-Hub-Simulation-10-Trucks-500-Initial-Units-Global-Matrix
