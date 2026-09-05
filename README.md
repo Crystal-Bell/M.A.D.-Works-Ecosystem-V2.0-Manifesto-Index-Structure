@@ -476,3 +476,5 @@ HANDOVER_MANIFEST.md
 In the event of extended operator unavailability, system oversight transitions according to established family provenance protocols. 
 - **Autonomous Continuity:** The repository logic, documentation, and structural architecture are self-contained and require no external maintenance to retain validity.
 - **Autonomy Guarantee:** Any integration with external networks must preserve individual provenance and singular architectural origin.
+
+https://github.com/Crystal-Bell/Autonomous-Bioswarm-Remediation-Oceanic-Garbage-Patch-Succession
