@@ -522,3 +522,5 @@ https://github.com/Crystal-Bell/The-Watchtower-Protocol-Proactive-Visitor-Teleme
 https://github.com/Crystal-Bell/The-Power-of-Just-One-Scaling-from-a-Single-Node
 
 https://github.com/Crystal-Bell/The-Provenance-Structural-DNA-Tracking-Protocol
+
+https://github.com/Crystal-Bell/Zero-Click-Transparency-The-Link-Friction-Bypass-Protocol
