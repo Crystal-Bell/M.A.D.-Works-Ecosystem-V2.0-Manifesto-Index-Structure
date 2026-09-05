@@ -502,3 +502,5 @@ https://github.com/Crystal-Bell/Distributed-Hub-Simulation-10-Trucks-500-Initial
 https://github.com/Crystal-Bell/Pre-Staged-Global-Seed-Truck-Network-15-Trucks-30-Prime-Nodes-Predictive-Route-Printing
 
 https://github.com/Crystal-Bell/Fleet-OS-Residential-Activation-Direct-In-Home-Bot-Upcycling
+
+https://github.com/Crystal-Bell/Industrial-Fleet-Upgrade-Retrofitting-Commercial-Floors-via-Fleet-OS
