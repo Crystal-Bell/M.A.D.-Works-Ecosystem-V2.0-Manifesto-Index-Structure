@@ -494,3 +494,5 @@ https://github.com/Crystal-Bell/Planetary-Scale-Remediation-Autonomous-Swarms-Si
 https://github.com/Crystal-Bell/2026-09-05M.A.D.-Bot-Brigade-Zero-Friction-Hardware-Integration-Philanthropic-Deployment-Proposal
 
 https://github.com/Crystal-Bell/M.A.D.-Forest-Reseeding-Drone-Matrix-Bio-Degradable-Airframes-Local-Fabrication
+
+https://github.com/Crystal-Bell/Planetary-Scale-Simulation-1-000-Unit-Global-Deployment-Rapid-Remediation-Matrix
