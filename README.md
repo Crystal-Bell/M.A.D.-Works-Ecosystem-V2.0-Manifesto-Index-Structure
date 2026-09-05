@@ -500,3 +500,5 @@ https://github.com/Crystal-Bell/Planetary-Scale-Simulation-1-000-Unit-Global-Dep
 https://github.com/Crystal-Bell/Distributed-Hub-Simulation-10-Trucks-500-Initial-Units-Global-Matrix
 
 https://github.com/Crystal-Bell/Pre-Staged-Global-Seed-Truck-Network-15-Trucks-30-Prime-Nodes-Predictive-Route-Printing
+
+https://github.com/Crystal-Bell/Fleet-OS-Residential-Activation-Direct-In-Home-Bot-Upcycling
