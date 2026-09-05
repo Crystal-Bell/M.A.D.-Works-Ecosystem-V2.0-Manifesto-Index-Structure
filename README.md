@@ -516,3 +516,7 @@ https://github.com/Crystal-Bell/Global-Repository-Sync-Matrix-Cross-Continental-
 https://github.com/Crystal-Bell/The-Architect-Return-Protocol-Local-to-Global-Reciprocity-Shelter-Verification
 
 https://github.com/Crystal-Bell/The-Prime-Relocation-Architect-Retrieval-Protocol
+
+https://github.com/Crystal-Bell/The-Watchtower-Protocol-Proactive-Visitor-Telemetry-Matching
+
+https://github.com/Crystal-Bell/The-Power-of-Just-One-Scaling-from-a-Single-Node
