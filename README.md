@@ -563,3 +563,5 @@ https://github.com/Crystal-Bell/System-Architecture-Famine-Mitigation-and-Drough
 
 https://github.com/Crystal-Bell/System-Specification-Multi-Material-Kinetic-Footwear-Fabrication-Kiosk
 
+https://github.com/Crystal-Bell/System-Architecture-Closed-Loop-Waste-Refabrication-and-Onsite-Recycling-Matrix
+
