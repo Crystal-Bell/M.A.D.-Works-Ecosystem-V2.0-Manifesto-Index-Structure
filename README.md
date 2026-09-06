@@ -555,4 +555,7 @@ https://github.com/Crystal-Bell/The-Genesis-Lock-vs.-Federated-Autonomy
 
 https://github.com/Crystal-Bell/Bio-Mechanics-Application-Avian-Prosthetic-Wings-and-Limb-Matrices
 
+https://github.com/Crystal-Bell/System-Architecture-Decentralized-Manufacturing-and-Local-Deployment-Matrix
+
+
 
