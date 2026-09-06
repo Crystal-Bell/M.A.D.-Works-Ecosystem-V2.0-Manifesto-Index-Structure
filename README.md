@@ -561,3 +561,5 @@ https://github.com/Crystal-Bell/System-Architecture-Decentralized-Manufacturing-
 
 https://github.com/Crystal-Bell/System-Architecture-Famine-Mitigation-and-Drought-Response-Framework
 
+https://github.com/Crystal-Bell/System-Specification-Multi-Material-Kinetic-Footwear-Fabrication-Kiosk
+
