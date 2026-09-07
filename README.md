@@ -565,3 +565,5 @@ https://github.com/Crystal-Bell/System-Specification-Multi-Material-Kinetic-Foot
 
 https://github.com/Crystal-Bell/System-Architecture-Closed-Loop-Waste-Refabrication-and-Onsite-Recycling-Matrix
 
+https://github.com/Crystal-Bell/Executive-Dispatch-Package-M.A.D.-Wildland-Kiosk-Architecture
+
